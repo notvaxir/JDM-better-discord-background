@@ -1,3 +1,3 @@
 # JDM-better-discord-background
 
-i know its skidded from dark matter cry bout it ;) looks nice tho
+used the dark matter src cuz cba to write my own
